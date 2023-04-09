@@ -1,0 +1,31 @@
+{
+  "entities": [
+    {
+      "type": "player",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "type": "wall",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "type": "exit",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "type": "swamp_tile",
+      "x": 2,
+      "y": 1,
+      "movement_factor": 2
+    },
+    {
+      "type": "spider",
+      "x": 2,
+      "y": 2
+    }
+  ],
+  "goal-condition": {"goal": "exit"}
+}

@@ -1,0 +1,55 @@
+{
+    "entities": [
+      {
+        "x": 7,
+        "y": 4,
+        "type": "wall"
+      },
+      {
+        "x": 8,
+        "y": 4,
+        "type": "wall"
+      },
+      {
+        "x": 9,
+        "y": 4,
+        "type": "wall"
+      },
+      {
+        "x": 5,
+        "y": 5,
+        "type": "player"
+      },
+      {
+        "x": 7,
+        "y": 5,
+        "type": "wall"
+      },
+      {
+        "x": 8,
+        "y": 5,
+        "type": "assassin"
+      },
+      {
+        "x": 9,
+        "y": 5,
+        "type": "wall"
+      },
+      {
+        "x": 7,
+        "y": 6,
+        "type": "wall"
+      },
+      {
+        "x": 8,
+        "y": 6,
+        "type": "wall"
+      },
+      {
+        "x": 9,
+        "y": 6,
+        "type": "wall"
+      }
+    ],
+    "goal-condition": {"goal": "exit"}
+  }
